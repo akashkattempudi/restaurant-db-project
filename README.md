@@ -30,7 +30,7 @@ This project demonstrates a mini restaurant management system using **MySQL**. I
 
 The ER diagram visually represents the relationships between all the tables.  
 
-![ER Diagram](ER_diagram.png)
+![ER Diagram](ER_Diagram.png)
 
 ---
 
