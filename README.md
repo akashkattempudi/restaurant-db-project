@@ -1,3 +1,5 @@
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 # Restaurant DB Project
 
 This is a **Restaurant Management System Database** project. It includes the database schema, ER diagram, and SQL queries for common operations and tasks.  
